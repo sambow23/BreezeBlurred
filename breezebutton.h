@@ -27,6 +27,7 @@
 #include <QHash>
 #include <QImage>
 #include <QPropertyAnimation>
+#include <QPainterPath>
 
 namespace Breeze
 {
